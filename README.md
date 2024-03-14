@@ -37,6 +37,7 @@ for each wear category.</p>
 <p align="justify">
 8. Visulaize the sequence patterns using matplotlib.
 </p>
+
 ### Program:
 ~~~
 from collections import defaultdict
@@ -65,7 +66,7 @@ def gsp(dataset, min_support):
     return frequent_patterns
 
 
-#Example dataset for each category
+# Example dataset for each category
 top_wear_data = [
  ["blouse", "t-shirt", "tank_top"],
  ["hoodie", "sweater", "top"],["hoodie"],["hoodie","sweater"]
@@ -112,7 +113,7 @@ else:
  print("No frequent sequential patterns found in Party Wear.")
 ~~~
 ### Output:
-![image](https://github.com/Naveenvetrivel/WDM_EXP3/assets/94165322/e4639239-a758-4622-b500-aef118a3825b)
+![312558182-17ec74c8-3540-4bf1-982a-26af8bca83b6](https://github.com/Naveenvetrivel/WDM_EXP3/assets/94165322/ff3abf73-d448-4978-8842-5448f41639cc)
 
 ### Visualization:
 ~~~
@@ -141,8 +142,8 @@ visualize_patterns_line(bottom_wear_result, 'Bottom Wear')
 visualize_patterns_line(party_wear_result, 'Party Wear')
 ~~~
 ### Output:
-![image](https://github.com/Naveenvetrivel/WDM_EXP3/assets/94165322/1a52726e-f6bb-4a3a-9b33-0edf4c0d4479)
-![image](https://github.com/Naveenvetrivel/WDM_EXP3/assets/94165322/fc3e97b6-ea36-41d1-9cf4-3e22a53fd63d)
+![312558622-0cb61545-5e3b-48f6-9888-4a15eb3ae1f7](https://github.com/Naveenvetrivel/WDM_EXP3/assets/94165322/692f03de-2e0c-42c1-8343-1c2eda443519)
+
 
 ### Result:
 Thus the implementation of the GSP algorithm in python has been successfully executed
@@ -150,4 +151,3 @@ Thus the implementation of the GSP algorithm in python has been successfully exe
 
 
 
-### Result:
