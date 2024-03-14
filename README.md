@@ -143,6 +143,7 @@ visualize_patterns_line(party_wear_result, 'Party Wear')
 ~~~
 ### Output:
 ![312558622-0cb61545-5e3b-48f6-9888-4a15eb3ae1f7](https://github.com/Naveenvetrivel/WDM_EXP3/assets/94165322/692f03de-2e0c-42c1-8343-1c2eda443519)
+![312558665-896e954c-145c-498e-8979-29a67641761d](https://github.com/Naveenvetrivel/WDM_EXP3/assets/94165322/828e4b7b-8e2e-42a2-b87d-e435f6585eeb)
 
 
 ### Result:
